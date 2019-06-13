@@ -1,0 +1,13 @@
+{
+    "userName" : "Admin",
+    "password" : "admin123",
+    "organizationName" : "TookiTaki",
+    "registrationNumber" : "12345",
+    "taxId" : "1001",
+    "employeeId" : "0001",
+    "faxNumber" : "9874563215",
+    "firstName" : "Test_123",
+    "lastName" : "test"
+
+
+}

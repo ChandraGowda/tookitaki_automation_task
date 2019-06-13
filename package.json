@@ -1,0 +1,29 @@
+{
+  "//": [
+    "$Id: //depot/proj/o365dp/staging/test/protractor/package.json $",
+    " Copyright (c) 2016 NetApp, Inc.",
+    " All rights reserved."
+  ],
+  "name": "protractor",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "prestart": "npm install",
+    "start": "webdriver-manager start",
+    "test": "protractor conf.js"
+  },
+  "devDependencies": {
+    "mongoose": "latest",
+    "node-dir": "^0.1.17",
+    "node-fetch": "^1.7.3",
+    "promise": "^8.0.1",
+    "protractor-beautiful-reporter": "^1.2.7",
+    "protractor-hotkeys": "^0.0.5",
+    "protractor-jasmine2-html-reporter": "latest",
+    "request": "^2.81.0",
+    "request-promise": "^4.2.2",
+    "uuid": "latest",
+    "winston": "^3.0.0",
+    "zip-local": "latest"
+  }
+}
