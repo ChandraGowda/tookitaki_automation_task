@@ -15,7 +15,7 @@
   "devDependencies": {
     "mongoose": "latest",
     "node-dir": "^0.1.17",
-    "node-fetch": "^1.7.3",
+    "node-fetch": "^2.6.1",
     "promise": "^8.0.1",
     "protractor-beautiful-reporter": "^1.2.7",
     "protractor-hotkeys": "^0.0.5",
